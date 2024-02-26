@@ -1,0 +1,25 @@
+{
+  "name": "shopee_scraper",
+  "version": "1.0.0",
+  "description": "Shopee Scraper",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shopee"
+  ],
+  "author": "Aditya Akbar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "console": "^0.7.2",
+    "fs": "0.0.1-security",
+    "fs-extra": "^10.1.0",
+    "node-fetch": "^3.2.6",
+    "path": "^0.12.7",
+    "process": "^0.11.10",
+    "request": "^2.88.2"
+  }
+}
